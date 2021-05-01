@@ -25,7 +25,7 @@
 
 
 
-## Business Activities:
+## Business Activities
 
 * What specific financial problem is the company or project trying to solve?
   - Their mission is to make cryptocurrency easy to use by providing a secure online platform for buying, selling, transferring, and storing digital currency, creating an open financial system for the world and being the leading global brand for helping people convert digital currency into and out of their local currency. By being the leader as they pursue their mission in the field, it helps people to get more exposure to cryptocurrency that helps prevent issues such as inflation, high foreign exchange fees, inefficient transfer of payments, and confiscation and privacy of asset ownership and other financial problems solved by decentralization of the currency.
@@ -36,7 +36,7 @@
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
   - They are centralized exchanges with FDIC insured balance. This means that the exchange provides a middle man for each transactions. Coinbase plays a crucial part in currency system transformation that is leading towards decentralization of the currency system. It bridges between centralized currencies and decentralized currencies that utilize blockchain. 
 
-## Landscape:
+## Landscape
 
 * What domain of the financial industry is the company in?
   - Blockchain and cryptocurrencies
@@ -75,8 +75,9 @@
   
 ## Sources
 
-*https://www.investopedia.com/binance-vs-coinbase-5120852
-*https://www.coinbase.com/
-*https://www.wired.com/2014/03/what-is-bitcoin/
-*https://read.cash/@Writer/coinbase-e45161aa
+  - https://www.investopedia.com/binance-vs-coinbase-5120852
+  - https://www.coinbase.com/
+  - https://www.wired.com/2014/03/what-is-bitcoin/
+  - https://read.cash/@Writer/coinbase-e45161aa
+  - https://www.barrons.com/articles/the-coinbase-effect-shows-the-companys-importance-and-how-it-could-diminish-51618247558
 ---
