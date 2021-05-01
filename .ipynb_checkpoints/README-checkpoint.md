@@ -71,4 +71,12 @@
 
 * Why are these technologies appropriate for your solution?
   - Enhancing automation in content/page views analysis could provide Coinbase a strong data source to improve their content improvement process and narrow down user interest trend. 
+  
+  
+## Sources
+
+*https://www.investopedia.com/binance-vs-coinbase-5120852
+*https://www.coinbase.com/
+*https://www.wired.com/2014/03/what-is-bitcoin/
+*https://read.cash/@Writer/coinbase-e45161aa
 ---
